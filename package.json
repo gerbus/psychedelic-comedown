@@ -1,0 +1,21 @@
+{
+    "name": "psychedelic-comedown",
+    "displayName": "Psychedelic Comedown",
+    "description": "A stimulating but fulfilling psychedelic-come-down theme for VSCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Psychedelic Comedown",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Psychedelic Comedown-color-theme.json"
+            }
+        ]
+    }
+}
