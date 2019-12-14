@@ -1,8 +1,13 @@
 {
     "name": "psychedelic-comedown",
-    "displayName": "Psychedelic Comedown",
+    "displayName": "Psychedelic Comedown Theme",
     "description": "A stimulating but fulfilling psychedelic-come-down theme for VSCode",
+    "publisher": "gerbus-enterprises",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gerbus/psychedelic-comedown"
+    },
     "engines": {
         "vscode": "^1.40.0"
     },
