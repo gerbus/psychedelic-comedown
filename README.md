@@ -12,10 +12,10 @@ Based on the Pastel On Dark color scheme from codeanywhere.com . Tested primaril
 
 ### Samples
 #### React Native
-![React Native](https://github.com/gerbus/psychedelic-comedown/blob/master/sample_rn_component.png)
+![React Native](sample_rn_component.png)
 
 #### React
-![React](https://github.com/gerbus/psychedelic-comedown/blob/master/sample_react_component.png)
+![React](sample_react_component.png)
 
 #### ES6
-![ES6](https://github.com/gerbus/psychedelic-comedown/blob/master/sample_arrow_fn.png)
+![ES6](sample_arrow_fn.png)
