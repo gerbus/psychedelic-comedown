@@ -2,10 +2,20 @@
 A stimulating but fulfilling psychedelic-come-down theme for VSCode
 https://marketplace.visualstudio.com/items?itemName=gerbus-enterprises.psychedelic-comedown
 
-## Description
 Based on the Pastel On Dark color scheme from codeanywhere.com . Tested primarily using React.
 
 ### Features
-* sets a cool and soothing general visual context
-* visually pulls out function names and class names
-* visually separates js (purple/orange) from jsx (blue/green)
+* sets a cool (purple, blue, green) visual context
+* highlights function definitions (yellow) and function calls (orange)
+* contrasts `js` (purple/orange) from `jsx` (blue/green)
+* differentiates Components (teal) from html elements (cyan)
+
+### Samples
+#### React Native
+![React Native](https://github.com/gerbus/psychedelic-comedown/blob/master/sample_rn_component.png)
+
+#### React
+![React](https://github.com/gerbus/psychedelic-comedown/blob/master/sample_react_component.png)
+
+#### ES6
+![ES6](https://github.com/gerbus/psychedelic-comedown/blob/master/sample_arrow_fn.png)
